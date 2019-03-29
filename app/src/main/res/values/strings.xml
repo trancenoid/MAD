@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">MAD</string>
+    <string name = "i1">Unfairly and regularly accuses you of flirting or being unfaithful.</string>
+    <string name = "i2">Controls how you spends money..</string>
+    <string name = "i3">Decides what you wear or eat.</string>
+    <string name = "i4">Humiliates you in front of other people.</string>
+    <string name = "i5">Monitors what you are doing, including reading your emails and text messages.</string>
+    <string name = "i6">Discourages or prevents you from seeing friends and family.</string>
+    <string name = "i7">Threatens to hurt you, the children or pets.</string>
+    <string name = "i8">Physically assaults you (hitting, biting, slapping, kicking, pushing).</string>
+    <string name = "i9">Yells at you.</string>
+    <string name = "i10">Threatens to use a weapon against you.</string>
+    <string name = "i11">Decides what you use for birth control.</string>
+    <string name = "i12">Forces you to have an abortion or to continue a pregnancy.</string>
+    <string name = "i13">Constantly compares you with other people.</string>
+    <string name = "i14">Constantly criticises your intelligence, mental health and appearance.</string>
+    <string name = "i15">Prevents you from practising your religion.</string>
+
 </resources>

@@ -20,7 +20,7 @@
         android:layout_width="292dp"
         android:layout_height="264dp"
         android:padding="10dp"
-        android:src="@drawable/SOS" />
+        android:src="@drawable/sos" />
 </android.support.design.widget.AppBarLayout>
 
     <android.support.design.widget.TabLayout
